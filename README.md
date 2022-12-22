@@ -7,7 +7,7 @@ The MIPS processor is designed as multi-cycle and supports the following command
 
 ‫‪Control‬‬ ‫‪Flow‬‬ ‫‪Instructions:‬‬ ```‫‪j,‬‬ ‫‪jal,‬‬ ‫‪jr,‬‬ ‫‪beq,‬‬ ‫‪bne‬‬```‬
 
-You can see instruction set architecture (ISA) [here](https://github.com/davoudifatemeh/Computer_Arcitecture/blob/master/Assignment3/Isa.png).
+You can see instruction set architecture (ISA) [here](https://github.com/davoudifatemeh/Multi-Cycle-MIPS-Processor/blob/main/Isa03.png).
 
 ## Test 1
 Adds the elements of a ten-element array (with the starting address of 1000) together and writes the result to memory address 2000.
