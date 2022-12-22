@@ -7,4 +7,4 @@ The MIPS processor is designed as multi-cycle and supports the following command
 
 ‫‪Control‬‬ ‫‪Flow‬‬ ‫‪Instructions:‬‬ ```‫‪j,‬‬ ‫‪jal,‬‬ ‫‪jr,‬‬ ‫‪beq,‬‬ ‫‪bne‬‬```‬
 
-Ypu can see instruction set architecture (ISA) [here](https://github.com/davoudifatemeh/Computer_Arcitecture/blob/master/Assignment3/Isa.png).
+You can see instruction set architecture (ISA) [here](https://github.com/davoudifatemeh/Computer_Arcitecture/blob/master/Assignment3/Isa.png).
